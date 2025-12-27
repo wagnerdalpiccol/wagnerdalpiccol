@@ -2,5 +2,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"  width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="24" />
-  <i class="devicon-apachekafka-original" width="24"></i>
+  <i class="devicon-apachekafka-original"></i>
 </div>
