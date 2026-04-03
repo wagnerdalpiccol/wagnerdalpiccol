@@ -1,5 +1,5 @@
 ## Hi, I'm Wagner! 🧙‍♂️ 
-I am a B.S. in Software Engineering candidate 🐦‍🔥 and a Developer ⚡ with professional experience since 2023. 
+I am a B.S. in Software Engineering candidate 🐦‍🔥 and a Developer ⚡ with professional experience since 2023.&nbsp;&nbsp;
 Currently, I focus on building efficient solutions 🚀 and constantly expanding my technical toolkit.
 ##
 <p align="left">
