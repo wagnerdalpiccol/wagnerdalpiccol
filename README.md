@@ -1,4 +1,4 @@
-<img src="imagem.png" align="right" width="200" style="margin-left: 20px;">
+<img src="imagem2.png" align="right" width="200" style="margin-left: 20px;">
 
 ### Hi, I'm Wagner! 🧙‍♂️
 
