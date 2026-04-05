@@ -2,14 +2,10 @@
 
 ### Hi, I'm Wagner! 🧙‍♂️
 
-##
-
-<div style="height: 1px; background-color: #ffffff; width: 65%; margin: 20px 0;"></div>
-
-A **B.S. in Software Engineering student** 🐦‍🔥 and a **Developer** ⚡ with professional experience since 2023.  
-Currently, I focus on building efficient solutions 🚀 and constantly expanding my technical toolkit.
-
-##
+🐦‍🔥 B.S. in Software Engineering student  
+⚡ Dev since 2023  
+🚀 Focus on building efficient solutions  
+⚙️ Constantly expanding my technical toolkit
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" />&nbsp;&nbsp;
