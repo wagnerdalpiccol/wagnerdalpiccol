@@ -9,7 +9,7 @@
 🚀 Focus on building efficient solutions  
 ⚙️ Constantly expanding my technical toolkit
 
-<br>
+<br><br><br>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java" />&nbsp;&nbsp;
