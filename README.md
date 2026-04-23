@@ -1,4 +1,4 @@
-<img src="image.png" align="right" width="390" style="margin-right: 500px; margin-left: 20px;">
+<!--<img src="image.png" align="right" width="390" style="margin-right: 500px; margin-left: 20px;">
 
 ### Hi, I'm Wagner! 🧙‍♂️
 
@@ -21,4 +21,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" title="IntelliJ" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />
-</p>
+</p>-->
